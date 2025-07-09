@@ -28,8 +28,8 @@ How It Works
 
 Tech Stack
 
-Python 3.x
-Pathway for data processing
-Pandas for sampling
-Panel & Bokeh (optional) for visualization
+* Python 3.x
+* Pathway for data processing
+* Pandas for sampling
+* Panel & Bokeh (optional) for visualization
 
